@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2/0</key>
+	<string>China Resident Identity Card(居民身份证)</string>
+	<key>3/0</key>
+	<string>China Resident Identity Card subpage(居民身份证副页)</string>
+	<key>4/0</key>
+	<string>China Temporary Resident Identity Card（临时居民身份证）</string>
+	<key>5/0</key>
+	<string>China Driving License（机动车驾驶证）</string>
+	<key>6/0</key>
+	<string>China Vehicle License（机动车行驶证）</string>
+	<key>7/0</key>
+	<string>China PLA Officer Card 1998 Edition(军官证1998版)</string>
+	<key>9/0</key>
+	<string>China Mainland Residents Travel Permit to HK and Macao 2005 Edition Portrait Page(往来港澳通行证2005版-照片页)</string>
+	<key>10/0</key>
+	<string>Taiwan Residents Travel Permit to Mainland 1992 Edition Portrait Page(台湾居民来往大陆通行证1992版-照片页)</string>
+	<key>11/0</key>
+	<string>China Mainland Residents Travel Permit to Taiwan 1992 Edition Portrait Page(往来台湾通行证1992版-照片页)</string>
+	<key>12/0</key>
+	<string>Visa(签证)</string>
+	<key>13/0</key>
+	<string>Passport(护照)</string>
+	<key>14/0</key>
+	<string>China Mainland Travel Permit for HK and Macao Residents  Portrait Page(港澳居民来往内地通行证-照片页)</string>
+	<key>15/0</key>
+	<string>China Mainland Travel Permit for HK and Macao Residents MRZ Page(港澳居民来往内地通行证-机读码页)</string>
+	<key>16/0</key>
+	<string>China Register Card for Permanent Resident(常住人口登记卡)</string>
+	<key>22/0</key>
+	<string>China Mainland Residents Travel Permit to HK and Macao  2014 Edition Portrait Page(往来港澳通行证2014版-照片页)</string>
+	<key>25/0</key>
+	<string>Taiwan Residents Travel Permit to Mainland 2015 Edition Portrait Page(台湾居民来往大陆通行证2015版-照片页)</string>
+	<key>26/0</key>
+	<string>Taiwan Residents Travel Permit to Mainland 2015  Edition MRZ Page(台湾居民来往大陆通行证2015版-机读码页)</string>
+	<key>28/0</key>
+	<string>China Driving License sub page(机动车驾驶证副页)</string>
+	<key>29/0</key>
+	<string>China Mainland Residents Travel Permit to Taiwan  2017 Edition Portrait Page(往来台湾通行证2017版-照片页)</string>
+	<key>30/0</key>
+	<string>China Vehicle License sub page（机动车行驶证副页）</string>
+	<key>31/0</key>
+	<string>China Residence Permit for HK/Macao/Taiwan Residents Portrait Page(港澳台居民居住证-照片页)</string>
+	<key>32/0</key>
+	<string>China Residence Permit for HK/Macao/Taiwan Residents Authority Page(港澳台居民居住证-签发机关页)</string>
+	<key>33/0</key>
+	<string>China Foreign Permanent Resident ID Card Portrait Page(外国人永久居留身份证-照片页)</string>
+	<key>34/0</key>
+	<string>Electronic Driver&apos;s License(电子驾驶证)</string>
+	<key>35/0</key>
+	<string>Electronic Driving License(电子行驶证)</string>
+	<key>36/0</key>
+	<string>Electronic Driver&apos;s License Subpage(电子驾驶证副页)</string>
+	<key>37/0</key>
+	<string>Electronic Driving License Subpage(电子行驶证副页)</string>
+	<key>1000/0</key>
+	<string>China Residence Permit(GuangDong,Guangxi,Dongguan) Portrait Page(居住证（广东、广西、东莞）-照片页)</string>
+	<key>1001/0</key>
+	<string>HK Resident Identity Card  Edition Portrait Page(香港居民身份证-照片页)</string>
+	<key>1005/1</key>
+	<string>Macau Resident Identity Card 2004 Edition Portrait Page(澳门居民身份证2004版-照片页)</string>
+	<key>1005/2</key>
+	<string>Macau Resident Identity Card 2013 Edition Portrait Page(澳门居民身份证2013版-照片页)</string>
+	<key>1005/3</key>
+	<string>Macau Resident Identity Card 2023 Edition Portrait Page(澳门居民身份证2023版-照片页)</string>
+	<key>1013/0</key>
+	<string>China Shenzhen Residence Permit 2015 Edition Portrait Page(深圳经济特区居住证2015版-照片页)</string>
+	<key>1014/0</key>
+	<string>Macau employee ID Portrait Page(澳门蓝卡-照片页)</string>
+	<key>1015/0</key>
+	<string>Hong Kong Entry Ticket(香港入境小票)</string>
+	<key>1021/0</key>
+	<string>China Social Security Card(Beijing,Chongqing) Portrait Page(社会保障卡（北京、重庆）-照片页)</string>
+	<key>1030/0</key>
+	<string>Taiwan National Health Insurance Card(台湾全民健康保险卡)</string>
+	<key>1031/0</key>
+	<string>Taiwan Identity Card Portrait Page(台湾地区身份证-照片页)</string>
+	<key>1032/0</key>
+	<string>Taiwan Identity Card Barcode Page(台湾地区身份证-条码页)</string>
+	<key>3000/0</key>
+	<string>MRZ(机读码)</string>
+	<key>1039/0</key>
+	<string>China Xiamen Social Security Card Portrait Page(厦门市社会保障卡-照片页)</string>
+	<key>1041/0</key>
+	<string>China Fujian Social Security Card Portrait Page(福建社会保障卡-照片页)</string>
+	<key>2001/0</key>
+	<string>Malaysia Identity Card Portrait Page(马来西亚身份证-照片页)</string>
+	<key>2002/0</key>
+	<string>USA California Driving License(美国加利福利亚驾驶证)</string>
+	<key>2003/0</key>
+	<string>New Zealand Driving License(新西兰驾驶证)</string>
+	<key>2004/0</key>
+	<string>Singapore Identity Card(新加坡身份证)</string>
+	<key>2009/0</key>
+	<string>TD-1 Machine Readable Travel Documents(TD-1型机读旅行证件)</string>
+	<key>2010/1</key>
+	<string>Indonesia Resident Identity Card (EKPT)(印度尼西亚居民身份证-KEPT)</string>
+	<key>2010/2</key>
+	<string>Indonesia Resident Identity Card (KPT)(印度尼西亚居民身份证-KPT)</string>
+	<key>2011/0</key>
+	<string>Thailand National Identity Card(泰国国民身份证)</string>
+	<key>2012/1</key>
+	<string>Thailand Driving License(泰国驾驶证)</string>
+	<key>2012/2</key>
+	<string>Thailand Private Car Driving License(泰国驾驶证-私家车)</string>
+	<key>2013/1</key>
+	<string>Mexico INE IFE ID Card Type AB(墨西哥选民证AB)</string>
+	<key>2013/2</key>
+	<string>Mexico INE IFE ID Card Type C(墨西哥选民证C)</string>
+	<key>2013/3</key>
+	<string>Mexico INE IFE ID Card Type DE(墨西哥选民证DE)</string>
+	<key>2014/0</key>
+	<string>Mexico INE IFE ID Card Reverse Page(墨西哥选民证背面ABC)</string>
+	<key>2016/0</key>
+	<string>Thailand National Identity Card Back(泰国国民身份证背面)</string>
+	<key>2021/0</key>
+	<string>Malaysia Driving license(马来西亚驾照)</string>
+	<key>2022/0</key>
+	<string>Philippines ID Card Portrait Page(菲律宾身份证-照片页)</string>
+	<key>2031/0</key>
+	<string>Singapore Driving License(新加坡驾驶证)</string>
+	<key>2041/0</key>
+	<string>Indonesia Driving License(印度尼西亚驾驶证)</string>
+	<key>2051/0</key>
+	<string>Japan Driving License(日本驾照)</string>
+</dict>
+</plist>

@@ -1,0 +1,206 @@
+/* 
+  Localizable.strings
+  IDCardDemo
+
+*/
+//主页面按钮
+"选择证件类型" = "Select Document Type";
+"扫描识别" = "Scan To Recog";
+"选择识别" = "Select To Recog";
+
+/*证件类型ID:证件名字*/
+"China Resident Identity Card(居民身份证)" = "China Resident Identity Card";
+"China Resident Identity Card subpage(居民身份证副页)" = "China Resident Identity Card subpage";
+
+"China Temporary Resident Identity Card（临时居民身份证）" = "China Temporary Resident Identity Card";
+
+"China Driving License（机动车驾驶证）" = "China Driving License";
+
+"China Vehicle License（机动车行驶证）" = "China Vehicle License";
+
+"China Mainland Residents Travel Permit to HK and Macao 2005 Edition Portrait Page(往来港澳通行证2005版-照片页)" = "China Mainland Residents Travel Permit to HK and Macao 2005 Edition Portrait Page";
+
+"Taiwan Residents Travel Permit to Mainland 1992 Edition Portrait Page(台湾居民来往大陆通行证1992版-照片页)" = "Taiwan Residents Travel Permit to Mainland 1992 Edition Portrait Page";
+
+"China Mainland Residents Travel Permit to Taiwan 1992 Edition Portrait Page(往来台湾通行证1992版-照片页)" = "China Mainland Residents Travel Permit to Taiwan 1992 Edition Portrait Page";
+
+"Visa(签证)" = "Visa";
+
+"Passport(护照)" = "Passport";
+
+"China Mainland Travel Permit for HK and Macao Residents  Portrait Page(港澳居民来往内地通行证-照片页)" = "China Mainland Travel Permit for HK and Macao Residents  Portrait Page";
+
+"China Mainland Travel Permit for HK and Macao Residents MRZ Page(港澳居民来往内地通行证-机读码页)" ="China Mainland Travel Permit for HK and Macao Residents MRZ Page";
+
+"China Register Card for Permanent Resident(常住人口登记卡)" = "China Register Card for Permanent Resident";
+
+"China PLA Officer Card 1998 Edition(军官证1998版)" ="China PLA Officer Card 1998 Edition";
+
+"China Mainland Residents Travel Permit to HK and Macao  2014 Edition Portrait Page(往来港澳通行证2014版-照片页)" = "China Mainland Residents Travel Permit to HK and Macao  2014 Edition Portrait Page";
+
+"Taiwan Residents Travel Permit to Mainland 2015 Edition Portrait Page(台湾居民来往大陆通行证2015版-照片页)" ="Taiwan Residents Travel Permit to Mainland 2015 Edition Portrait Page";
+
+"Taiwan Residents Travel Permit to Mainland 2015  Edition MRZ Page(台湾居民来往大陆通行证2015版-机读码页)" ="Taiwan Residents Travel Permit to Mainland 2015  Edition MRZ Page";
+
+"China Driving License sub page(机动车驾驶证副页)" = "China Driving License sub page";
+
+"China Mainland Residents Travel Permit to Taiwan  2017 Edition Portrait Page(往来台湾通行证2017版-照片页)" = "China Mainland Residents Travel Permit to Taiwan  2017 Edition Portrait Page";
+
+"China Residence Permit(GuangDong,Guangxi,Dongguan) Portrait Page(居住证（广东、广西、东莞）-照片页)" = "China Residence Permit(GuangDong,Guangxi,Dongguan) Portrait Page";
+
+
+"HK Resident Identity Card 2003 Edition Portrait Page(香港居民身份证2003版-照片页)" ="HK Resident Identity Card 2003 Edition Portrait Page";
+
+"Macau Resident Identity Card 2004 Edition Portrait Page(澳门居民身份证2004版-照片页)" = "Macau Resident Identity Card 2004 Edition Portrait Page";
+
+"Macau Resident Identity Card Portrait Page(澳门居民身份证-照片页)" = "Macau Resident Identity Card Portrait Page";
+
+"Macau Resident Identity Card 2013 Edition Portrait Page(澳门居民身份证2013版-照片页)" = "Macau Resident Identity Card 2013 Edition Portrait Page";
+"Macau Resident Identity Card 2023 Edition Portrait Page(澳门居民身份证2023版-照片页)" = "Macau Resident Identity Card 2023 Edition Portrait Page";
+"China Shenzhen Residence Permit 2015 Edition Portrait Page(深圳经济特区居住证2015版-照片页)" = "China Shenzhen Residence Permit 2015 Edition Portrait Page";
+
+"China Social Security Card(Beijing,Chongqing) Portrait Page(社会保障卡（北京、重庆）-照片页)" = "China Social Security Card(Beijing,Chongqing) Portrait Page";
+
+"Taiwan National Health Insurance Card(台湾全民健康保险卡)"= "Taiwan National Health Insurance Card";
+
+"Taiwan Identity Card Portrait Page(台湾地区身份证-照片页)" = "Taiwan Identity Card Portrait Page";
+
+"Taiwan Identity Card Barcode Page(台湾地区身份证-条码页)" ="Taiwan Identity Card Barcode Page";
+
+"MRZ(机读码)" = "MRZ";
+
+"China Xiamen Social Security Card Portrait Page(厦门市社会保障卡-照片页)" ="China Xiamen Social Security Card Portrait Page";
+
+"China Fujian Social Security Card Portrait Page(福建社会保障卡-照片页)" ="China Fujian Social Security Card Portrait Page";
+
+"Malaysia Identity Card Portrait Page(马来西亚身份证-照片页)" ="Malaysia Identity Card Portrait Page";
+
+"USA California Driving License(美国加利福利亚驾驶证)" ="USA California Driving License";
+
+"New Zealand Driving License(新西兰驾驶证)" = "New Zealand Driving License";
+
+"Singapore Identity Card(新加坡身份证)" ="Singapore Identity Card";
+
+"Indonesia Resident Identity Card (EKPT)(印度尼西亚居民身份证-KEPT)" = "Indonesia Resident Identity Card (EKPT)";
+
+"Indonesia Resident Identity Card (KPT)(印度尼西亚居民身份证-KPT)" = "Indonesia Resident Identity Card (KPT)";
+
+"Thailand National Identity Card(泰国国民身份证)" = "Thailand National Identity Card";
+
+"Thailand Driving License(泰国驾驶证)" = "Thailand Driving License";
+
+"Thailand Private Car Driving License(泰国驾驶证-私家车)" = "Thailand Private Car Driving License";
+
+"Mexico INE IFE ID Card Type AB(墨西哥选民证AB)" = "Mexico INE IFE ID Card Type AB";
+
+"Mexico INE IFE ID Card Type C(墨西哥选民证C)" = "Mexico INE IFE ID Card Type C";
+
+"Mexico INE IFE ID Card Type DE(墨西哥选民证DE)" ="Mexico INE IFE ID Card Type DE";
+
+"Mexico INE IFE ID Card Reverse Page(墨西哥选民证背面ABC)" ="Mexico INE IFE ID Card Reverse Page";
+
+"Malaysia Driving license(马来西亚驾照)" = "Malaysia Driving license";
+
+"Singapore Driving License(新加坡驾驶证)" = "Singapore Driving License";
+
+"Indonesia Driving License(印度尼西亚驾驶证)" ="Indonesia Driving License";
+
+"Japan Driving License(日本驾照)" ="Japan Driving License";
+
+"China Foreign Permanent Resident ID Card Portrait Page(外国人永久居留身份证-照片页)" = "China Foreign Permanent Resident ID Card Portrait Page";
+
+
+"China Residence Permit for HK/Macao/Taiwan Residents Authority Page(港澳台居民居住证-签发机关页)" = "China Residence Permit for HK/Macao/Taiwan Residents Authority Page";
+
+"China Residence Permit for HK/Macao/Taiwan Residents Portrait Page(港澳台居民居住证-照片页)" = "China Residence Permit for HK/Macao/Taiwan Residents Portrait Page";
+
+"TD-1 Machine Readable Travel Documents(TD-1型机读旅行证件)" = "TD-1 Machine Readable Travel Documents";
+
+"HK Resident Identity Card 2018 Edition Portrait Page(香港居民身份证2018版-照片页)" = "HK Resident Identity Card 2018 Edition Portrait Page";
+
+"Philippines ID Card Portrait Page(菲律宾身份证-照片页)" = "Philippines ID Card Portrait Page";
+
+"China Vehicle License sub page（机动车行驶证副页）" = "China Vehicle License sub page";
+
+"Thailand National Identity Card Back(泰国国民身份证背面)" = "Thailand National Identity Card Back";
+"Hong Kong Entry Ticket(香港入境小票)" = "Hong Kong Entry Ticket";
+
+"Macau employee ID Portrait Page(澳门蓝卡-照片页)" = "Macau employee ID Portrait Page";
+"取消" = "Cancle";
+
+"HK Resident Identity Card  Edition Portrait Page(香港居民身份证-照片页)" = "HK Resident Identity Card  Edition Portrait Page";
+
+"Lawyer Practice Certificate Issuing Authority Page(律师执业证-签发机关页)" = "Lawyer Practice Certificate Issuing Authority Page";
+"Lawyer Practice Certificate Portrait Page(律师执业证-照片页)" = "Lawyer Practice Certificate Portrait Page";
+
+
+"Pakistan ID Card Portrait Page（巴基斯坦身份证-照片页）" = "Pakistan ID Card Portrait Page";
+"Algeria ID Card Portrait Page(阿尔及利亚身份证-照片页）" = "Algeria ID Card Portrait Page";
+"Oman Resident Card Portrait Page（阿曼居民证-照片页）" = "Oman Resident Card Portrait Page";
+"Oman ID Card Portrait Page（阿曼身份证-照片页）" = "Oman ID Card Portrait Page";
+"Kuwaiti ID card Portrait Page（科威特身份证-照片页）" = "Kuwaiti ID card Portrait Page";
+"Djibouti ID card Portrait Page（吉布提身份证-照片页）" = "Djibouti ID card Portrait Page";
+"Lebanon ID card Portrait Page（黎巴嫩身份证-照片页）" = "Lebanon ID card Portrait Page";
+"Saudi Residence Permit Portrait Page（沙特居留证-照片页）" = "Saudi Residence Permit Portrait Page";
+"Saudi ID card Portrait Page(沙特身份证-照片页）" = "Saudi ID card Portrait Page";
+"Back of Egypt ID card（埃及身份证-背面）" = "Back of Egypt ID card";
+"Egypt ID card Portrait Page（埃及身份证-照片页）" = "Egypt ID card Portrait Page";
+"Kenya ID card Portrait Page（肯尼亚居民身份证-照片页）" = "Kenya ID card Portrait Page";
+"Jordan ID card Portrait Page（约旦身份证-照片页）" = "Jordan ID card Portrait Page";
+"UAE ID Card MRZ Page（阿联酋身份证-机读码页）" = "UAE ID Card MRZ Page";
+"UAE ID Card Portrait Page（阿联酋身份证-照片页）" = "UAE ID Card Portrait Page";
+"Swedish driver's license Portrait Page (瑞典驾驶证-照片页)" = "Swedish driver's license Portrait Page";
+"TD-2 type machine-readable travel document (TD-2型机读旅行证件)" = "TD-2 type machine-readable travel document";
+"Border Area Exit Entry Permit Portrait Page (边境地区出入境通行证-照片页)" = "Border Area Exit Entry Permit Portrait Page";
+"Electronic Driver's License(电子驾驶证)" = "Electronic Driver's License";
+"Electronic Driving License(电子行驶证)" = "Electronic Driving License";
+"Electronic Driving License Subpage(电子行驶证副页)" = "Electronic Driving License Subpage";
+"Electronic Driver's License Subpage(电子驾驶证副页)" = "Electronic Driver's License Subpage";
+
+//NFC
+"Issuing country code" = "Issuing country code";
+"English name" = "English name";
+"Passport number" = "Passport number" ;
+"Date of birth" = "Date of birth";
+"Date of expiry" = "Date of expiry";
+"Nationality code" = "Nationality code";
+"National name" = "National name";
+"Sex" = "Sex";
+"Place of birth" = "Place of birth";
+"Place of issue" = "Place of issue";
+"Date of issue" = "Date of issue";
+"Issuing organization" = "Issuing organization";
+
+"Card number" = "Card number";
+"Valid until" = "Valid until";
+"Chinese name" = "Chinese name";
+"Number" = "Number of times";
+"Number of issuances" = "Number of issuances";
+
+"NFCNotSupported" = "Not supporting NFC";
+"ConnectionError" = "Connect Failed";
+"Three element tips" = "Passport/ID number, date of birth, and validity period cannot be empty";
+//NFCViewDisplayMessage
+"Hold your iPhone near an NFC enabled passport." = "Hold your iPhone near an NFC enabled passport.";
+"Authenticating with passport" = "Authenticating with passport.......\n\n%@";
+"Reading" = "Reading%1$@......\n\n%2$@";
+"Tag not valid." = "Tag not valid.";
+"More than 1 tags was found. Please present only 1 tag." = "More than 1 tags was found. Please present only 1 tag.";
+"Connection error. Please try again." = "Connection error. Please try again.";
+"MRZ Key not valid for this document." = "MRZ Key not valid for this document.";
+"ReadingProblem" = "Sorry, there was a problem reading the passport.%1$@ - (0x%2$@,0x%3$@)";
+"Sorry, there was a problem reading the passport. Please try again" = "Sorry, there was a problem reading the passport. Please try again";
+"Authenticating....." = "Authenticating.....";
+"Passport read successfully" = "Passport read successfully";
+//NFC OpenSSLError
+"Unable to read the SOD PKCS7 Certificate" = "Unable to read the SOD PKCS7 Certificate.%@";
+"Unable to verify the SOD X509 certificate" = "Unable to verify the SOD X509 certificate.%@";
+"Unable to verify the SOD Datagroup hashes" = "Unable to verify the SOD Datagroup hashes.%@";
+"Unable to read ECDSA Public key" = "Unable to read ECDSA Public key.%@";
+"Unable to extract Signer data from PKCS7" = "Unable to extract Signer data from PKCS7.%@";
+"Unable to Verify the SOD SignedAttributes" = "Unable to Verify the SOD SignedAttributes.%@";
+"Unable to parse ASN1" = "Unable to parse ASN1.%@";
+"DatUnable to decrypt RSA Signature" = "DatUnable to decrypt RSA Signature.%@";
+"Unable to parse the SOD Datagroup hashes" = "Unable to parse the SOD Datagroup hashes.%@";
+"DataGroup hash not present or didn't match"= "DataGroup hash not present or didn't match.%@";
+"DataGroup SOD not present or not read" = "DataGroup SOD not present or not read.%@";
